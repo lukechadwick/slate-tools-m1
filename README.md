@@ -11,6 +11,9 @@ Remove any existing version `npm uninstall @shopify/slate-tools`
 Install:
 ```
 npm i https://github.com/lukechadwick/slate-tools-m1
+npm i @shopify/slate
+
+npx slate start
 ```
 
 ## Documentation
