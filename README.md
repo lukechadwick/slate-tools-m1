@@ -9,6 +9,8 @@
 
 Remove any existing version `npm uninstall @shopify/slate-tools`
 
+Set your environment to use node v8.x (may require deleting /node_modules if you were on a different version)
+
 Install:
 ```
 npm i https://github.com/lukechadwick/slate-tools-m1
