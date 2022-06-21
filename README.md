@@ -10,7 +10,7 @@ Remove any existing version `npm uninstall @shopify/slate-tools`
 
 Install:
 ```
-npm i git+https://git@github.com:lukechadwick/slate-tools-m1.git
+npm i https://github.com/lukechadwick/slate-tools-m1
 ```
 
 ## Documentation
