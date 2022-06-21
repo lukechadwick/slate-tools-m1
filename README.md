@@ -1,4 +1,4 @@
-# @shopify/slate-tools
+# @shopify/slate-tools: modified for Apple M1 compatibility
 
 Tooling for Shopify themes using [Slate](https://github.com/Shopify/slate/tree/0.x).
 
@@ -6,8 +6,11 @@ Best used in conjunction with the [Slate CLI](https://www.npmjs.com/package/@sho
 
 ## Installation
 
-```bash
-$ npm install @shopify/slate-tools
+Remove any existing version `npm uninstall @shopify/slate-tools`
+
+Install:
+```
+npm i git+https://git@github.com:lukechadwick/slate-tools-m1.git
 ```
 
 ## Documentation

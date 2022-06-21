@@ -64,6 +64,6 @@ gulp.task('watch:dist-config', () => {
     .on('all', (event, path) => {
       messages.logFileEvent(event, path);
 
-      throw new Error(messages.configChange());
+      // throw new Error(messages.configChange());
     });
 });
