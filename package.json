@@ -7,7 +7,6 @@
   "author": "Shopify Inc.",
   "dependencies": {
     "@shopify/theme-lint": "1.0.3",
-    "@shopify/themekit": "0.6.6",
     "bluebird": "3.4.6",
     "browser-sync": "2.18.2",
     "chokidar": "1.6.1",
