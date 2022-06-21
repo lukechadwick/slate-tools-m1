@@ -1,8 +1,9 @@
 # @shopify/slate-tools: modified for Apple M1 compatibility
 
-Tooling for Shopify themes using [Slate](https://github.com/Shopify/slate/tree/0.x).
+* Pulls in themekit 1.1.x for M1 compatibility
+* Modified version of @shopify/slate-tools 0.14.0 to be compatible with themekit 1.x API
+* Intended to be paried with @shopify/slate 0.14.0
 
-Best used in conjunction with the [Slate CLI](https://www.npmjs.com/package/@shopify/slate) package.
 
 ## Installation
 
@@ -11,6 +12,7 @@ Remove any existing version `npm uninstall @shopify/slate-tools`
 Install:
 ```
 npm i https://github.com/lukechadwick/slate-tools-m1
+
 npm i @shopify/slate
 
 npx slate start
